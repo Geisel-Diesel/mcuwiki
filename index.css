@@ -1,0 +1,43 @@
+.center {
+    display: block;
+    width: 50%;
+  }
+
+.left {
+  float: left;
+  width: 25%;
+  padding: 0px;
+}
+
+.right {
+  float: right;
+  width: 25%;
+  padding: 0px;
+}
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 18px 82.2px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(218, 19, 19);
+    color: white;
+  }
+
+  
