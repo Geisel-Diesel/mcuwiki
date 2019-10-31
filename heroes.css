@@ -1,7 +1,9 @@
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    background-color: rgb(245, 9, 9);
+    background-color: red; 
+    background-image: linear-gradient(red, yellow); /*start and end color */
     padding: 20px;
   }
   
