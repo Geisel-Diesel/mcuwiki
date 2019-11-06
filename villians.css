@@ -1,0 +1,13 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(0, 89, 255); 
+    background-image: linear-gradient(rgb(0, 89, 255), rgb(132, 0, 255)); /*start and end color */
+    padding: 20px;
+  }
+  
+  .grid-item {
+    text-align: center;
+   
+    padding: 10px;
+  }
